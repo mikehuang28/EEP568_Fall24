@@ -10,7 +10,7 @@
 ## HW2
 - Convolutional neural networks (CNN)
 - Long-tailed recognition
-- Transfer learning
+- Transfer learning and domain adaptation
 
 ## HW3
 - Object detection
